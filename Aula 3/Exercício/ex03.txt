@@ -1,0 +1,23 @@
+1- Primitivos
+Tipo Numérico
+Inteiro, Ponto Flutuante, Decimal, ..)
+Tipo Booleano (valores verdade)
+Tipo Caracter ou Cadeia de Caracteres.
+
+Derivados
+
+São formados pela composição de dados primitivos, dentro de uma struct
+
+2-
+É importante para a organização do código, para encontrar erros e edição de
+partes.
+
+3- Fazer um código mais compacto e mais limpo que proporcione na leitura uma melhor compreenção.
+
+4- Parâmetros
+A parâmetro representa um valor que o procedimento espera que você passe quando você chamá-lo. 
+A declaração do procedimento define os seus parâmetros.
+
+Argumentos
+Um argumento representa o valor que você passa para um parâmetro de procedimento, quando você chama o procedimento. 
+O código de chamada fornece os argumentos quando chama o procedimento

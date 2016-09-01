@@ -1,0 +1,2 @@
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex03a\ex03a\ex03a\bin\Debug\ex03a.exe.config
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex03a\ex03a\ex03a\obj\Debug\ex03a.csprojResolveAssemblyReference.cache

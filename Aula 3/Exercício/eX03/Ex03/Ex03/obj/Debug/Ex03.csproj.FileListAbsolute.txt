@@ -1,0 +1,6 @@
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\Aula 3\Exercício\eX03\Ex03\Ex03\bin\Debug\Ex03.exe.config
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\Aula 3\Exercício\eX03\Ex03\Ex03\bin\Debug\Ex03.exe
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\Aula 3\Exercício\eX03\Ex03\Ex03\bin\Debug\Ex03.pdb
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\Aula 3\Exercício\eX03\Ex03\Ex03\obj\Debug\Ex03.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\Aula 3\Exercício\eX03\Ex03\Ex03\obj\Debug\Ex03.exe
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\Aula 3\Exercício\eX03\Ex03\Ex03\obj\Debug\Ex03.pdb
