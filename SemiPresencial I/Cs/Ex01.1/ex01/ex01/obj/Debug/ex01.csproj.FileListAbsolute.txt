@@ -1,0 +1,6 @@
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex01\ex01\bin\Debug\ex01.exe.config
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex01\ex01\bin\Debug\ex01.exe
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex01\ex01\bin\Debug\ex01.pdb
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex01\ex01\obj\Debug\ex01.exe
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex01\ex01\obj\Debug\ex01.pdb
+C:\Users\Diogo\Dropbox\Faculdade\3º Semestre\Paradigmas\SemiPresencial I\Cs\Ex01.1\ex01\ex01\obj\Debug\ex01.csprojResolveAssemblyReference.cache
