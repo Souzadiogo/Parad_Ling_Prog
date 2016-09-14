@@ -57,7 +57,7 @@ namespace imc
             }
             else
             {
-                Console.WriteLine("Você esta com obesidade, seu índice é %d:");
+                Console.WriteLine("Você esta com obesidade");
             }
 
 
